@@ -8,7 +8,7 @@ ports:
 # Commenting out. We'll run these manually in class.
 tasks:
   - init: echo "Getting started!"
-    command: php -S localhost:8000 -t /
+    command: php -S localhost:8000
 
 vscode:
   extensions:
